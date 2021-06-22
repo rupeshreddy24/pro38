@@ -1,1 +1,2 @@
-# pro38
+# synchronousBallMovement
+Ball moving synchronously
